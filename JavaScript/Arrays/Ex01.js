@@ -1,8 +1,7 @@
+//Um mercado quer listar as frutas disponíveis no estoque. Imprima a lista deste mercado, com dados fixos.
+
 let frutas = ["Maçã", "Banana", "Mamão", "Manga"]
 
 console.log("Lista de Frutas:")
 
-for (var i = 1; i <= frutas; i++) {
-    console.log(i)
-    console.log(frutas);
-}
+console.log("Frutas do mercado:",frutas);
